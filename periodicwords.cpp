@@ -29,6 +29,12 @@ int main() {
     
     
     // INSERT YOUR CODE HERE
+
+
+
+
+
+
     
     
     for (int i = 0; i < Q; ++i)
